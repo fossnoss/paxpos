@@ -1,0 +1,14 @@
+{
+  "name": "pax-pos-simulator",
+  "version": "1.0.0",
+  "description": "PAX POS security analysis simulation for educational purposes",
+  "private": true,
+  "scripts": {
+    "start": "node pax-sim.js",
+    "sim": "node pax-sim.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["security", "pentest", "education", "pax", "pos"],
+  "author": "",
+  "license": "MIT"
+}
